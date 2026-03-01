@@ -1,0 +1,21 @@
+{
+  "name": "Simpeltoko Discount",
+  "short_name": "Simpeltoko",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06084a",
+  "description": "Toko online Simpeltoko Discount - Belanja mudah, cepat, dan hemat di Blogger!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/.../LOGO-SIMPELTOKO-Square-300x300.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/.../LOGO-SIMPELTOKO-Square-300x300.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
