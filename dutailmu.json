@@ -1,0 +1,22 @@
+{
+  "name": "Toko Buku",
+  "short_name": "Duta Ilmu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06084a",
+  "description": "Toko Buku Online - Pembayaran Transfer dan COD",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCzD78CQTO7mKZOwB75NPRKi4SzfmDMYifleg1PFbQ_e7cgzjt1IAFpXKzwgQVW-rTxHay_YOZ7RImzH9MvIEENgbiRC3DrXG6HFEa02srIMdlsEQjm9mVseaNJnTNi4ax0WNoAtlXc0BNrgHzXLbG0liWPM7-3UmvE8YPHrR47qn_oH7F_eIJgq9bZ9dC/s320/600x600.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/.../LOGO-SIMPELTOKO-Square-300x300.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
